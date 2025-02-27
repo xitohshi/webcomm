@@ -1,0 +1,16 @@
+li.menu {
+    display: inline;
+}
+h1 {
+    color: cadetblue;
+    font-size: 30px;
+}
+a.menu {
+    background-color: antiquewhite;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
